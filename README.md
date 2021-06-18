@@ -20,4 +20,4 @@ return data from it
 * Flask
 * Heroku
 ## Demo Video
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/GtlXTk2Tf4g/0.jpg)](https://www.youtube.com/watch?v=GtlXTk2Tf4g)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/dMqnPXZ2a3Y/0.jpg)](https://www.youtube.com/watch?v=dMqnPXZ2a3Y)
